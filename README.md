@@ -1,0 +1,2 @@
+# Persistence-of-a-number.
+The code you need to get started with calculating the persistence of a number.
